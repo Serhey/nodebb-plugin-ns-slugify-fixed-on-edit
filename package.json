@@ -2,10 +2,10 @@
   "_args": [
     [
       {
-        "raw": "nodebb-plugin-ns-slugify@1.1.2",
+        "raw": "nodebb-plugin-ns-slugify-fixed-on-edit@1.1.2",
         "scope": null,
-        "escapedName": "nodebb-plugin-ns-slugify",
-        "name": "nodebb-plugin-ns-slugify",
+        "escapedName": "nodebb-plugin-ns-slugify-fixed-on-edit",
+        "name": "nodebb-plugin-ns-slugify-fixed-on-edit",
         "rawSpec": "1.1.2",
         "spec": "1.1.2",
         "type": "version"
@@ -13,26 +13,22 @@
       "/home/user/nodebb"
     ]
   ],
-  "_from": "nodebb-plugin-ns-slugify@1.1.2",
-  "_id": "nodebb-plugin-ns-slugify@1.1.2",
+  "_from": "nodebb-plugin-ns-slugify-fixed-on-edit@1.1.2",
+  "_id": "nodebb-plugin-ns-slugify-fixed-on-edit@1.1.2",
   "_inCache": true,
-  "_location": "/nodebb-plugin-ns-slugify",
+  "_location": "/nodebb-plugin-ns-slugify-fixed-on-edit",
   "_nodeVersion": "5.8.0",
-  "_npmOperationalInternal": {
-    "host": "packages-12-west.internal.npmjs.com",
-    "tmp": "tmp/nodebb-plugin-ns-slugify-1.1.2.tgz_1459600130399_0.5970059933606535"
-  },
   "_npmUser": {
-    "name": "nicolassiver",
-    "email": "nicolas@siver.im"
+    "name": "dreadfull",
+    "email": "deathwings9@gmail.com"
   },
   "_npmVersion": "3.7.3",
   "_phantomChildren": {},
   "_requested": {
-    "raw": "nodebb-plugin-ns-slugify@1.1.2",
+    "raw": "nodebb-plugin-ns-slugify-fixed-on-edit@1.1.2",
     "scope": null,
-    "escapedName": "nodebb-plugin-ns-slugify",
-    "name": "nodebb-plugin-ns-slugify",
+    "escapedName": "nodebb-plugin-ns-slugify-fixed-on-edit",
+    "name": "nodebb-plugin-ns-slugify-fixed-on-edit",
     "rawSpec": "1.1.2",
     "spec": "1.1.2",
     "type": "version"
@@ -40,16 +36,14 @@
   "_requiredBy": [
     "#USER"
   ],
-  "_resolved": "https://registry.npmjs.org/nodebb-plugin-ns-slugify/-/nodebb-plugin-ns-slugify-1.1.2.tgz",
-  "_shasum": "abd7123adbcccbfb97210b554b2133f18024f5b6",
   "_shrinkwrap": null,
-  "_spec": "nodebb-plugin-ns-slugify@1.1.2",
+  "_spec": "nodebb-plugin-ns-slugify-fixed-on-edit@1.1.2",
   "_where": "/home/user/nodebb",
   "author": {
-    "name": "Nicolas Siver"
+    "name": "Dreadfull"
   },
   "bugs": {
-    "url": "https://github.com/NicolasSiver/nodebb-plugin-ns-slugify/issues"
+    "url": "https://github.com/NicolasSiver/nodebb-plugin-ns-slugify-fixed-on-edit/issues"
   },
   "dependencies": {
     "translitit-cyrillic-russian-to-latin": "^0.1.0"
@@ -57,12 +51,7 @@
   "description": "Auto transliteration of slugs.",
   "devDependencies": {},
   "directories": {},
-  "dist": {
-    "shasum": "abd7123adbcccbfb97210b554b2133f18024f5b6",
-    "tarball": "https://registry.npmjs.org/nodebb-plugin-ns-slugify/-/nodebb-plugin-ns-slugify-1.1.2.tgz"
-  },
-  "gitHead": "bb4d134b50418d59369e2e3ac61496e158e9429b",
-  "homepage": "https://github.com/NicolasSiver/nodebb-plugin-ns-slugify#readme",
+  "homepage": "https://github.com/Serhey/nodebb-plugin-ns-slugify-fixed-on-edit#readme",
   "keywords": [
     "slugs",
     "cyrillic"
@@ -71,11 +60,11 @@
   "main": "plugin.js",
   "maintainers": [
     {
-      "name": "nicolassiver",
-      "email": "nicolas@siver.im"
+      "name": "Dreadfull",
+      "email": "deathwings9@gmail.com"
     }
   ],
-  "name": "nodebb-plugin-ns-slugify",
+  "name": "nodebb-plugin-ns-slugify-fixed-on-edit",
   "nbbpm": {
     "compatibility": "^0.8.0 || ^0.9.0 || ^1.x"
   },
@@ -83,7 +72,7 @@
   "readme": "ERROR: No README data found!",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/NicolasSiver/nodebb-plugin-ns-slugify.git"
+    "url": "git+https://github.com/Serhey/nodebb-plugin-ns-slugify-fixed-on-edit.git"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
