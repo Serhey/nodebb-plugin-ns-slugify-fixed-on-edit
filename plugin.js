@@ -1,6 +1,9 @@
 /**
  * Created by Nicolas on 6/19/15.
  */
+/**
+*  Modified by Dreadfull on 8/09/17
+*/
 (function (Plugin) {
     'use strict';
 
@@ -27,6 +30,7 @@
             },
 
             topicEdit: function (topicData, callback) {
+                //Here was a problem
                 topicData.topic.slug = translit(topicData.topic.slug);
                 callback(null, topicData);
             },
