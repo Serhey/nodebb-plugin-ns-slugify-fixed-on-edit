@@ -2,19 +2,19 @@
   "_args": [
     [
       {
-        "raw": "nodebb-plugin-ns-slugify-fixed-on-edit@1.1.2",
+        "raw": "nodebb-plugin-ns-slugify-fixed-on-edit@1.1.3",
         "scope": null,
         "escapedName": "nodebb-plugin-ns-slugify-fixed-on-edit",
         "name": "nodebb-plugin-ns-slugify-fixed-on-edit",
-        "rawSpec": "1.1.2",
-        "spec": "1.1.2",
+        "rawSpec": "1.1.3",
+        "spec": "1.1.3",
         "type": "version"
       },
       "/home/user/nodebb"
     ]
   ],
-  "_from": "nodebb-plugin-ns-slugify-fixed-on-edit@1.1.2",
-  "_id": "nodebb-plugin-ns-slugify-fixed-on-edit@1.1.2",
+  "_from": "nodebb-plugin-ns-slugify-fixed-on-edit@1.1.3",
+  "_id": "nodebb-plugin-ns-slugify-fixed-on-edit@1.1.3",
   "_inCache": true,
   "_location": "/nodebb-plugin-ns-slugify-fixed-on-edit",
   "_nodeVersion": "5.8.0",
@@ -25,25 +25,25 @@
   "_npmVersion": "3.7.3",
   "_phantomChildren": {},
   "_requested": {
-    "raw": "nodebb-plugin-ns-slugify-fixed-on-edit@1.1.2",
+    "raw": "nodebb-plugin-ns-slugify-fixed-on-edit@1.1.3",
     "scope": null,
     "escapedName": "nodebb-plugin-ns-slugify-fixed-on-edit",
     "name": "nodebb-plugin-ns-slugify-fixed-on-edit",
-    "rawSpec": "1.1.2",
-    "spec": "1.1.2",
+    "rawSpec": "1.1.3",
+    "spec": "1.1.3",
     "type": "version"
   },
   "_requiredBy": [
     "#USER"
   ],
   "_shrinkwrap": null,
-  "_spec": "nodebb-plugin-ns-slugify-fixed-on-edit@1.1.2",
+  "_spec": "nodebb-plugin-ns-slugify-fixed-on-edit@1.1.3",
   "_where": "/home/user/nodebb",
   "author": {
     "name": "Dreadfull"
   },
   "bugs": {
-    "url": "https://github.com/NicolasSiver/nodebb-plugin-ns-slugify-fixed-on-edit/issues"
+    "url": "https://github.com/Serhey/nodebb-plugin-ns-slugify-fixed-on-edit/issues"
   },
   "dependencies": {
     "translitit-cyrillic-russian-to-latin": "^0.1.0"
@@ -77,5 +77,5 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "version": "1.1.2"
+  "version": "1.1.3"
 }
